@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const username = "devmariam";
+const username = "abolajii";
 const token = process.env.REACT_APP_GITHUB_TOKEN;
 
 // create a new repository
